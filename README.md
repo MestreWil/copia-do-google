@@ -15,7 +15,7 @@
 * Responsividade: O layout é responsivo em dispositivos móveis, tablets e desktops, garantindo uma experiência consistente em diferentes tamanhos de tela.
 * Imagens: As imagens relevantes foram incorporadas no layout para capturar a autenticidade da página inicial do Google.
 <div aling-"center">
-  <img src-""
+  <img src-"https://github.com/MestreWil/copia-do-google/assets/112444968/395d3f13-67ba-4656-ba9f-f5f01a3f0173" width="500px"/>
 </div>
 ## Créditos
-_Este projeto foi desenvolvido por **William Tavares de Moura**._
+_ Este projeto foi desenvolvido por ** William Tavares de Moura **. _

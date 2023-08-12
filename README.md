@@ -14,8 +14,9 @@
 * Botões Estilizados: Os botões foram estilizados usando o Bootstrap para se assemelharem aos botões de pesquisa e "Estou com sorte" do Google.
 * Responsividade: O layout é responsivo em dispositivos móveis, tablets e desktops, garantindo uma experiência consistente em diferentes tamanhos de tela.
 * Imagens: As imagens relevantes foram incorporadas no layout para capturar a autenticidade da página inicial do Google.
-<div aling-"center">
-  <img src-"https://github.com/MestreWil/copia-do-google/assets/112444968/395d3f13-67ba-4656-ba9f-f5f01a3f0173" width="500px"/>
+<div aling="center">
+  <img src="https://github.com/MestreWil/copia-do-google/assets/112444968/4d38f5f2-d78e-41a8-bd74-f6291e1f68e8" width="500px"/>
 </div>
+
 ## Créditos
-_ Este projeto foi desenvolvido por ** William Tavares de Moura **. _
+_Este projeto foi desenvolvido por **William Tavares de Moura**._
